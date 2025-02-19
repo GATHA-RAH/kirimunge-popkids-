@@ -1,5 +1,5 @@
 
-<a href="https://i.imgur.com/5zda1uw.jpeg"><img src="https://files.catbox.moe/5b2d6j.jpg" alt="02" border="0" /></a>                     
+<img src="https://files.catbox.moe/5b2d6j.jpg" alt="02" border="0" /></a>                     
     <h1 align="center">𝐆𝐀𝐓𝐇𝐀𝐑𝐀 𝐁𝐎𝐓</h1>
   </a>
 
@@ -47,11 +47,11 @@
  
 ## 🥳𝐅𝐎𝐑 𝐎𝐍𝐄-𝐓𝐀𝐏 𝐃𝐄𝐏𝐋𝐎𝐘𝐌𝐄𝐍𝐓 𝐔𝐒𝐄 𝐓𝐇𝐈𝐒 𝐁𝐔𝐓𝐓𝐎𝐍
 
-   🕳IF YOU DON'T HAVE A HEROKU ACCOUNT...CREATE ONE
+   🔩IF YOU DON'T HAVE A HEROKU ACCOUNT...CREATE ONE
    
    <a href="https://signup.heroku.com/"><img title="CREATE-ACCOUNT" src="https://img.shields.io/badge/CREATE-ACCOUNT-h?color=purple&style=for-the-badge&logo=heroku" width="180" height="43.45"/></a></p>
 
-   💫IF YOU ALREADY HAVE A HEROKU ACCOUNT...DEPLOY NOW
+   🏏IF YOU ALREADY HAVE A HEROKU ACCOUNT...DEPLOY NOW
 
  <a href="https://dashboard.heroku.com/new?template=https://github.com/Slayer128/heroku-ios"><img title="DEPLOY-ON HEROKU" src="https://img.shields.io/badge/DEPLOY-ON HEROKU-h?color=purple&style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
