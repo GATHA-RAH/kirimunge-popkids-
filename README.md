@@ -1,5 +1,4 @@
-
-<img src="https://files.catbox.moe/5b2d6j.jpg" alt="02" border="0" /></a>                     
+ /></a>                     
     <h1 align="center">𝐆𝐀𝐓𝐇𝐀𝐑𝐀 𝐁𝐎𝐓</h1>
   </a>
 
