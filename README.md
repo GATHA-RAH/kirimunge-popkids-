@@ -1,28 +1,58 @@
-# 🚀 RAP-POPKID Deployment Guide
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=900&color=1BAFBAFF&center=true&width=1100&height=150&lines= RAP POPKID-+XTECH+BOT" alt="Typing SVG" /></a>
-  </p>
+</a>                     
+    <h1 align="center">𝐆𝐀𝐓𝐇𝐀𝐑𝐀 𝐁𝐎𝐓</h1>
+  </a>
+
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+## ✅𝐇𝐄𝐑𝐄 𝐈𝐒 𝐓𝐇𝐄 𝐏𝐑𝐎𝐆𝐑𝐄𝐒𝐒 𝐅𝐎𝐑 𝐆𝐀𝐓𝐇𝐀𝐑𝐀
 
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=DAA520&center=true&width=910&height=100&lines= RAP POPKID+KIRIMUMGE+🤐🫡🤔+;KEEP+USING+GATHARA+MD" alt="Typing SVG" /></a>
 
 
-# ɢᴇᴛ ᴘᴀɪʀ ᴄᴏᴅᴇ
-</a></p>
-- <a href="https://popkid.vercel.app/"><img title="TAP FOR SESSION ID" src="https://img.shields.io/badge/LOG IN FOR SESSION ID-h?color=pink&style=for-the-badge&logo=porsche&logoColor=pink" width="240" height="38.45"/></a></p>
+## 👽HOW TO GET GATHARA
 
-# ᴄʀᴇᴀᴛᴇ ʜᴇʀᴏᴋᴜ
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=red&lines=𝗙𝗢𝗥𝗞+𝗔𝗡𝗗+𝗦𝗧𝗔𝗥+𝗥𝗘𝗣𝗢)](https://git.io/typing-svg)
+ 
 
-</a></p>
-- <a href='https://signup.heroku.com/' target="_silver"><img alt='Heroku' src='https://img.shields.io/badge/-ℂℝ𝔼𝔸𝕋𝔼 𝔸ℂℂ𝕆𝕌ℕ𝕋 ℕ𝕆𝕎-rgb(224, 255, 255)?style=for-the-badge&logo=porsche&logoColor=pink' width="240" height="38.45"/></a>
+  
+   
+   <a href="https://github.com/GATHA-R/KIRIMUNGE/fork"><img title="FORK-REPO" src="https://img.shields.io/badge/FORK-REPO-h?color=yellow&style=for-the-badge&logo=mazda" width="297" height="40.45"/></a></p>
 
-# ᴅᴇᴘʟᴏʏ ʙᴏᴛ
-- <a align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Popkiddevs/POPKID-XTECH"> <img src="https://img.shields.io/badge/DEPLOY%20NOW-purple?style=for-the-badge&logo=porsche" width="220" height="38.45"/></a></p>
 
-### **📜 Instructions**
-1. **Get Session ID** → Click the **SCAN CODE HERE** button.
-2. **Create a Heroku Account** if you don’t have one.
-3. **Deploy RAP-POPKID** by clicking the **DEPLOY NOW** button.
-4. Follow the Heroku setup instructions.
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-Happy Deploying! 🚀
+ 
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=red&lines=𝗦𝗘𝗦𝗦𝗜𝗢𝗡+𝗜𝗗+𝗦𝗜𝗧𝗘+𝗜𝗦+𝗛𝗘𝗥𝗘)](https://git.io/typing-svg)
+ 
+
+
+  <a href="https://gatharasession-488d9ccb41dd.herokuapp.com/pair"><img title="GET-SESSION ID HERE" src="https://img.shields.io/badge/GET-SESSION ID HERE-h?color=pink&style=for-the-badge&logo=render" width="230" height="38.45"/></a></p>
+
+  
+  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=red&lines=𝐃𝐄𝐏𝐋𝐎𝐘+𝐎𝐍+𝐇𝐄𝐑𝐎𝐊𝐔)](https://git.io/typing-svg)
+
+
+ 
+  
+
+ 
+## 🥳𝐅𝐎𝐑 𝐎𝐍𝐄-𝐓𝐀𝐏 𝐃𝐄𝐏𝐋𝐎𝐘𝐌𝐄𝐍𝐓 𝐔𝐒𝐄 𝐓𝐇𝐈𝐒 𝐁𝐔𝐓𝐓𝐎𝐍
+
+   🔩IF YOU DON'T HAVE A HEROKU ACCOUNT...CREATE ONE
+   
+   <a href="https://signup.heroku.com/"><img title="CREATE-ACCOUNT" src="https://img.shields.io/badge/CREATE-ACCOUNT-h?color=purple&style=for-the-badge&logo=heroku" width="180" height="43.45"/></a></p>
+
+   🏏IF YOU ALREADY HAVE A HEROKU ACCOUNT...DEPLOY NOW
+
+ <a href="https://dashboard.heroku.com/new?template=https://github.com/Slayer128/heroku-ios"><img title="DEPLOY-ON HEROKU" src="https://img.shields.io/badge/DEPLOY-ON HEROKU-h?color=purple&style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+
+ 
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=▭+▬+▭+▬+▭+▬+▭+▬+▭+▬+▭)](https://git.io/typing-svg)
